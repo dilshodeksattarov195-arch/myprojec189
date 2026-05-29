@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configearse",
+        "uuid": 794934,
+        "checksum": "941"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
